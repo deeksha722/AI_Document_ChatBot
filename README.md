@@ -134,7 +134,7 @@ API credentials are managed through environment variables. Keep `.env` and other
 
 **Deeksha Ravikumar**
 
-GitHub: [Add your GitHub profile URL here](https://github.com/)
+GitHub: [Add your GitHub profile URL here]https://github.com/deeksha722
 
 ---
 
